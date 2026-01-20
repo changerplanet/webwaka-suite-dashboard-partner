@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-suite-dashboard-partner",
+  "name": "Partner Dashboard",
+  "version": "0.1.0",
+  "class": "suite",
+  "description": "Privilege-driven Partner dashboard for business management",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-suite-dashboard-partner"
+  }
+}
